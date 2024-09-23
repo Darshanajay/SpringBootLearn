@@ -1,0 +1,1 @@
+1.@SpringBootApplication - core spring boot annotation Indicates a configuration class that declares one or more @Bean methods and also triggers auto-configuration and component scanning. This is a convenience annotation that is equivalent to declaring @SpringBootConfiguration, @EnableAutoConfiguration and @ComponentScan.
